@@ -1,0 +1,17 @@
+body {
+    background-color:red;
+}
+span{
+    background-color:white;
+}
+li {
+    font-family: 'Mali', cursive;
+    font-size:30px;
+}
+p {
+    font-size:25px;
+}
+img {
+    border-radius:200px;
+    border:dashed;
+}
